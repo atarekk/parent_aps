@@ -12,4 +12,5 @@
 - you should run the passport:install command. This command will create the encryption keys needed to generate secure access tokens <br>
 - to run dev server : php artisan serve <br>
 - get postman collection <a href="https://drive.google.com/open?id=1S8xDXy7UY0EDyGYdB23u1zTwhBd0V9Tm">Postman collection</a>
+<br>
 - use login route to get token (email :admin@admin.com / password:password) <br>
